@@ -1,4 +1,4 @@
-## Your Name
+## Kate Young
 
 A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
@@ -14,16 +14,16 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 **Company Name** (start-date to end-date)  
 _Your job title_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Any experience, including roles and responsibilities and results achieved in bullet point format.
 
 **Company Name** (start-date to end-date)  
 _Your job title_
 
-- Any experience relevent to software development
+- Any experience relevant to software development
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+Consider skills relevant to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.
 
 -STAR
