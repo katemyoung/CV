@@ -1,25 +1,34 @@
 ## Kate Young
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I'm Currently trainee junior developer and peer mentor at [[Makers Academy|https://makers.tech]]. I'm an educator and former headteacher specialising in primary STEM. I love working in cretaive and diverse teams to solve hard problems.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Instagram Individual Challenge            | A webapp to allow users to upload and view images. | Ruby on Rails, RSpec |
+| Acebook Group Challenge| A webapp to allow users to share content with friends. | Ruby on Rails, React, Rspec, Jest |
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Self Employed** (Feb 2020 - Oct 2021)  
+_Ghostwriter_
 
-- Any experience, including roles and responsibilities and results achieved in bullet point format.
+- Delivering high quality fiction and non-fiction content for a ghostwriting agency. 
+- Working quickly, accurately and to a client brief.
+- Focused on meeting client needs and experienced at making changes based on client feedback.
+- My ghost-written work is on sale in major booksellers including Waterstones and Amazon.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Acacia International School** (start-date to end-date)  
+_Headteacher_
 
-- Any experience relevant to software development
+- 
+
+
+**Sifunda Limited** (start-date to end-date)  
+
+- Founded and managed Sifunda Limited, a development consultancy specialising in teaching and learning in Southern Africa. 
+- Design and delivery of customised staff training and data analysis solutions for government, NGO and private sector organisations across a broad range of sectors. 
 
 ## Skills
 
