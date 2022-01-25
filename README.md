@@ -1,6 +1,6 @@
 ## Kate Young
 
-I'm Currently trainee junior developer and peer mentor at [[Makers Academy|https://makers.tech]]. I'm an educator and former headteacher specialising in primary STEM. I love working in cretaive and diverse teams to solve hard problems.
+I'm Currently trainee junior developer and peer mentor at [Makers Academy](https://makers.tech). I'm an educator and former headteacher specialising in primary STEM. I love working in cretaive and diverse teams to solve hard problems.
 
 ## Projects
 
