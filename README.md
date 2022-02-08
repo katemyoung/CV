@@ -1,29 +1,36 @@
 ## Kate Young
 
-I'm currently a trainee junior developer and peer mentor at [Makers Academy](https://makers.tech). I'm an educator and former headteacher specialising in primary STEM. I love working in cretaive and diverse teams to solve hard problems.
+I'm currently a trainee junior developer and peer mentor at [Makers Academy](https://makers.tech). I'm an educator and former headteacher specialising in primary STEM. I love working in creative and diverse teams to solve hard problems.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| Instagram Individual Challenge            | A webapp to allow users to upload and view images. | Ruby on Rails, RSpec |
-| Acebook Group Challenge| A webapp to allow users to share content with friends. | Ruby on Rails, React, Rspec, Jest |
+| [Sweepstake Generator](https://github.com/katemyoung/sweepstake-generator)          | A web app to allow users to generate football sweepstakes and view the form of their teams. | Ruby on Rails, RSpec, Bootstrap, Capybara, RapidAPI |
+| [Instagram Individual Challenge](https://github.com/katemyoung/instagram-challenge)            | A web app to allow users to upload and view images. | Ruby on Rails, RSpec |
 
 ## Work Experience
 
 **Self Employed** (Feb 2020 - Oct 2021)  
 _Ghostwriter_
 
-- Delivering high quality fiction and non-fiction content for a ghostwriting agency. 
+- Delivering high-quality fiction and non-fiction content for a ghostwriting agency. 
 - Working quickly, accurately and to a client brief.
 - Focused on meeting client needs and experienced at making changes based on client feedback.
 - My ghost-written work is on sale in major booksellers including Waterstones and Amazon.
 
-**Acacia International School** (start-date to end-date)  
+**Parental Career Break** (Jan 2019 - Jan 2020)  
+
+- Career break to focus on raising a young family. 
+
+
+**Acacia International School** (May 2017 to Dec 2018)  
 _Headteacher_
 
-- 
-
+- Responsible for day to day school management and leading strategic development.
+- Led the registration of the school with Cambridge Assessment International Education
+- Spearheaded the development of a new curriculum and staff training programme. 
+-  Led the development of the ICT system for staff and pupils, and introduced a code club for the children.
 
 **Sifunda Limited** (start-date to end-date)  
 
@@ -32,55 +39,37 @@ _Headteacher_
 
 ## Skills
 
-Consider skills relevant to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+#### Leading Learning
 
--STAR
--What was the situation/task? (ST)
+I'm a passionate and professional leader of learning:
+- As a headteacher, I developed and implemented a custom Cambridge Professional Development Qualification programme, resulting in a tangible and sustainable improvement in teaching standards. 
+- As a trainee developer, I undertook a Heroku learning spike and shared this learning with colleagues via demonstrations, Trello cards and blog posts. As a result, our whole team was able to deploy to Heroku and our final project was deployed early and often.
+- I lead by example when it comes to demonstrating a growth mindset, sharing my coding mistakes via an ErrorBlog and as a peer mentor at Makers Academy.
 
--How was the skill used?
+#### Collaborative Problem Solving
 
--What did you do? (action)
-
--What was the result?
-
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence (STAR)
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+I'm highly skilled at working with others to solve complex business and coding problems:
+- I led the development of Acacia International School, resulting in registration as a Cambridge International School, development of an [intergrated, custom curriculum] (https://www.acaciaschool.com/academics/#primary) and improved stakeholder engagement.
+- As director of [educational consultancy Sifunda](http://sifundalearning.org/what-we-do/training-development/), I worked with local government, business and NGOs to analyse development needs and implement bespoke solutions, including monitoring and evaluation for a [DFID funded literacy programe](https://www.happy-readers.com/wp-content/uploads/2018/01/Sifunda-Midline-Evaluation-Report-HR-FINAL2.pdf).
+- As a trainee developer at Makers Academy, I'm frequently brought in as a fresh pair of eyes when team members are blocked. For example, debugging an issue on an AirBnB clone where the database table had been updated, but the arguments passed to the method creating a new database record hadn't been updated. In our final Sweepstake Generator project, I debugged issues with handing the JSON returned from the API call and storing the API key secretly.
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (October 2021 to Jan 2022)
 
-#### Your University / College (start_date to end_date)
+- Frequently used paring in order to problem-solve efficiently, requiring teamwork and communication.
+- Developed skills in: 
+- - OOP, TDD, MVC, DDD
+- -  Agile/XP
+- - Ruby, Rails, JavaScript
+- - RSpec, Jasmine
+- - SQL, PostgreSQL
+For more information, please see [my blog where I documented my learning at Makers](https://www.katemyoung.com/)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### Education
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
-
-## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
+- 2017 Master of Education, Distinction, Rhodes University, RSA
+- 2012 Certificate of Natural Science, Open University, UK 
+- 2011 PGCE with QTS Grade 1, University of Bangor, UK 
+- 2010 Certificate of Mathematics, Open University, UK 
+- 2008 BA (Hons) Philosophy, 2.1, University College London, UK 
