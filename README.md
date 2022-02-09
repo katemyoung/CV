@@ -41,7 +41,7 @@ I'm a recent junior developer graduate and a peer mentor at [Makers Academy](htt
 
 I'm a passionate and professional leader of learning:
 - As a headteacher, I developed and implemented a custom Cambridge Professional Development Qualification programme, resulting in a tangible and sustainable improvement in teaching standards. 
-- As a trainee developer, I undertook a Heroku learning spike and shared this learning with colleagues via demonstrations, Trello cards and blog posts. As a result, our whole team was able to deploy to Heroku and our final project was deployed early and often.
+- As a trainee developer, I undertook a Heroku learning spike and shared this learning with colleagues via demonstrations, Trello cards and [blog posts](https://www.katemyoung.com/#Deploying%20an%20existing%20Rails%20app%20to%20Heroku). As a result, our whole team was able to deploy to Heroku and our final project was deployed early and often.
 - I lead by example when it comes to demonstrating a growth mindset, sharing my coding mistakes via an ErrorBlog and as a peer mentor at Makers Academy.
 
 #### Collaborative Problem Solving
@@ -49,7 +49,7 @@ I'm a passionate and professional leader of learning:
 I'm highly skilled at working with others to solve complex business and coding problems:
 - I led the development of Acacia International School, resulting in registration as a Cambridge International School, development of an [intergrated, custom curriculum] (https://www.acaciaschool.com/academics/#primary) and improved stakeholder engagement.
 - As director of [educational consultancy Sifunda](http://sifundalearning.org/what-we-do/training-development/), I worked with local government, business and NGOs to analyse development needs and implement bespoke solutions, including monitoring and evaluation for a [DFID funded literacy programe](https://www.happy-readers.com/wp-content/uploads/2018/01/Sifunda-Midline-Evaluation-Report-HR-FINAL2.pdf).
-- As a trainee developer at Makers Academy, I'm frequently brought in as a fresh pair of eyes when team members are blocked. For example, debugging an issue on an AirBnB clone where the database table had been updated, but the arguments passed to the method creating a new database record hadn't been updated. In our final Sweepstake Generator project, I debugged issues with handing the JSON returned from the API call and storing the API key secretly.
+- As a trainee developer at Makers Academy, I'm frequently brought in as a fresh pair of eyes when team members are blocked. For example, debugging an issue on an AirBnB clone where the database table had been updated, but the arguments passed to the method creating a new database record hadn't been updated. In our final Sweepstake Generator project, I debugged issues with handing the JSON returned from the API call and [storing the API key secretly](https://www.katemyoung.com/#Use%20the%20dotenv-rails%20gem%20to%20store%20API%20keys).
 
 ## Education
 
@@ -58,7 +58,7 @@ I'm highly skilled at working with others to solve complex business and coding p
 - Frequently used paring in order to problem-solve efficiently, requiring teamwork and communication.
 - Developed skills in: 
 - - OOP, TDD, MVC, DDD
-- -  Agile/XP
+- - Agile/XP
 - - Ruby, Rails, JavaScript
 - - RSpec, Jasmine
 - - SQL, PostgreSQL
