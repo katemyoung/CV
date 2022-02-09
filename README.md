@@ -6,7 +6,7 @@ I'm a recent junior developer graduate and a peer mentor at [Makers Academy](htt
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| [Sweepstake Generator](https://github.com/katemyoung/sweepstake-generator)          | A web app to allow users to generate football sweepstakes and view the form of their teams. | Ruby on Rails, RSpec, Bootstrap, Capybara, RapidAPI |
+| [Sweepstake Generator](https://github.com/katemyoung/sweepstake-generator)          | A web app to allow users to generate football sweepstakes and view the form of their teams. [Read my blog post about building this app](https://www.katemyoung.com/#How%20we%20built%20a%20Football%20Sweepstake%20Generator)| Ruby on Rails, RSpec, Bootstrap, Capybara, RapidAPI |
 | [Instagram Individual Challenge](https://github.com/katemyoung/instagram-challenge)            | A web app to allow users to upload and view images. | Ruby on Rails, RSpec |
 
 ## Work Experience
