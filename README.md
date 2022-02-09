@@ -93,4 +93,4 @@ For more information, please see [my blog where I documented my learning at Make
 ## Hobbies
 
 As a working mum to a five-year-old, a lot of my hobbies at the moment are shared hobbies: 
-tinkering with wood and electronics (especially the Exploratorium's fantastic activities ), cooking, forest school, birdwatching and storytelling.
+tinkering with wood and electronics ([especially the Exploratorium's fantastic activities](https://www.exploratorium.edu/tinkering)), cooking, forest school, birdwatching and storytelling.
