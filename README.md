@@ -13,7 +13,7 @@ I'm a recent junior developer graduate and a peer mentor at [Makers Academy](htt
 
 **Self Employed** (Feb 2020 - Oct 2021) _Ghostwriter_
 
-- Delivering high-quality fiction and non-fiction content for a ghostwriting agency. 
+- Delivering high-quality fiction and non-fiction content for a ghostwriting agency and [PeoplePerHour](https://www.peopleperhour.com/freelancer/writing-translation/kate-young-children-s-creative-writer-ghost-yxqvmvz#reviews). 
 - Working quickly, accurately and to a client brief.
 - Focused on meeting client needs and experienced at making changes based on client feedback.
 - My ghost-written work is on sale in major booksellers including Waterstones and Amazon.
@@ -23,14 +23,14 @@ I'm a recent junior developer graduate and a peer mentor at [Makers Academy](htt
 - Career break to focus on raising a young family. 
 
 
-**Acacia International School** (May 2017 to Dec 2018) _Headteacher_
+**[Acacia International School](https://www.acaciaschool.com/)** (May 2017 to Dec 2018) _Headteacher_
 
 - Responsible for day to day school management and leading strategic development.
 - Led the registration of the school with Cambridge Assessment International Education
 - Spearheaded the development of a new curriculum and staff training programme. 
--  Led the development of the ICT system for staff and pupils, and introduced a code club for the children.
+- Led the development of the ICT system for staff and pupils, and introduced a code club for the children.
 
-**Sifunda Limited** (Oct 2014 to Dec 2018) _Senior Consultant, Founder and Director_
+**[Sifunda Limited](https://sifundalearning.org/)** (Oct 2014 to Dec 2018) _Senior Consultant, Founder and Director_
 
 - Founded and managed Sifunda Limited, a development consultancy specialising in teaching and learning in Southern Africa. 
 - Design and delivery of customised staff training and data analysis solutions for government, NGO and private sector organisations across a broad range of sectors. 
