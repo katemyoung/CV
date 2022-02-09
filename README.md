@@ -1,6 +1,6 @@
 ## Kate Young
 
-I'm currently a trainee junior developer and peer mentor at [Makers Academy](https://makers.tech). I'm an educator and former headteacher specialising in primary STEM. I love working in creative and diverse teams to solve hard problems.
+I'm a recent junior developer graduate and a peer mentor at [Makers Academy](https://makers.tech). I'm an educator and former headteacher specialising in primary STEM. I love working in creative and diverse teams to solve hard problems.
 
 ## Projects
 
@@ -11,8 +11,7 @@ I'm currently a trainee junior developer and peer mentor at [Makers Academy](htt
 
 ## Work Experience
 
-**Self Employed** (Feb 2020 - Oct 2021)  
-_Ghostwriter_
+**Self Employed** (Feb 2020 - Oct 2021) _Ghostwriter_
 
 - Delivering high-quality fiction and non-fiction content for a ghostwriting agency. 
 - Working quickly, accurately and to a client brief.
@@ -24,8 +23,7 @@ _Ghostwriter_
 - Career break to focus on raising a young family. 
 
 
-**Acacia International School** (May 2017 to Dec 2018)  
-_Headteacher_
+**Acacia International School** (May 2017 to Dec 2018) _Headteacher_
 
 - Responsible for day to day school management and leading strategic development.
 - Led the registration of the school with Cambridge Assessment International Education
