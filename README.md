@@ -47,7 +47,7 @@ I'm a passionate and professional leader of learning:
 #### Collaborative Problem Solving
 
 I'm highly skilled at working with others to solve complex business and coding problems:
-- I led the development of Acacia International School, resulting in registration as a Cambridge International School, development of an [intergrated, custom curriculum] (https://www.acaciaschool.com/academics/#primary) and improved stakeholder engagement.
+- I led the development of Acacia International School, resulting in registration as a Cambridge International School, development of an [intergrated, custom curriculum](https://www.acaciaschool.com/academics/#primary) and improved stakeholder engagement.
 - As director of [educational consultancy Sifunda](http://sifundalearning.org/what-we-do/training-development/), I worked with local government, business and NGOs to analyse development needs and implement bespoke solutions, including monitoring and evaluation for a [DFID funded literacy programe](https://www.happy-readers.com/wp-content/uploads/2018/01/Sifunda-Midline-Evaluation-Report-HR-FINAL2.pdf).
 - As a trainee developer at Makers Academy, I'm frequently brought in as a fresh pair of eyes when team members are blocked. For example, debugging an issue on an AirBnB clone where the database table had been updated, but the arguments passed to the method creating a new database record hadn't been updated. In our final Sweepstake Generator project, I debugged issues with handing the JSON returned from the API call and [storing the API key secretly](https://www.katemyoung.com/#Use%20the%20dotenv-rails%20gem%20to%20store%20API%20keys).
 
@@ -67,7 +67,7 @@ For more information, please see [my blog where I documented my learning at Make
 #### Master of Education (2017)
 - Rhodes University, RSA
 - Grade: Distinction
-- Masters by research into adaptation of an early maths on-to-one intervention programme to a class context
+- Masters by research. [My thesis](https://www.katemyoung.com/#Kate%20Young%20M.Ed%20Thesis.pdf) was on the adaptation of an early maths on-to-one intervention programme to a class context
 
 #### Postgraduate Certificate of Education (PGCE) (2011)
 - University of Bangor, UK 
@@ -81,7 +81,7 @@ For more information, please see [my blog where I documented my learning at Make
 
 ## Other Qualifications
 
-- Cambridge Professional Development Qukaification Programme Leader, Cambridge Assessment, UK (2018)
+- Cambridge Professional Development Qulaification Programme Leader, Cambridge Assessment, UK (2018)
 - Introduction to Bookkeeping and Accountancy, Open University, UK (2013)
 - Listening Skills and Group Discussion Training, Baobab Centre, UK (2012)
 - Certificate of Natural Science, Open University, UK (2012)
