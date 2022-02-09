@@ -30,7 +30,7 @@ I'm a recent junior developer graduate and a peer mentor at [Makers Academy](htt
 - Spearheaded the development of a new curriculum and staff training programme. 
 -  Led the development of the ICT system for staff and pupils, and introduced a code club for the children.
 
-**Sifunda Limited** (start-date to end-date)  
+**Sifunda Limited** (Oct 2014 to Dec 2018) _Senior Consultant, Founder and Director_
 
 - Founded and managed Sifunda Limited, a development consultancy specialising in teaching and learning in Southern Africa. 
 - Design and delivery of customised staff training and data analysis solutions for government, NGO and private sector organisations across a broad range of sectors. 
