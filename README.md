@@ -40,7 +40,7 @@ I'm a recent junior developer graduate and a peer mentor at [Makers Academy](htt
 #### Leading Learning
 
 I'm a passionate and professional leader of learning:
-- As a headteacher, I developed and implemented a custom Cambridge Professional Development Qualification programme, resulting in a tangible and sustainable improvement in teaching standards. 
+- As a headteacher, I developed and implemented a custom [Cambridge Professional Development Qualification programme](https://www.cambridgeinternational.org/support-and-training-for-schools/professional-development/professional-development-qualifications), resulting in a tangible and sustainable improvement in teaching standards. 
 - As a trainee developer, I undertook a Heroku learning spike and shared this learning with colleagues via demonstrations, Trello cards and [blog posts](https://www.katemyoung.com/#Deploying%20an%20existing%20Rails%20app%20to%20Heroku). As a result, our whole team was able to deploy to Heroku and our final project was deployed early and often.
 - I lead by example when it comes to demonstrating a growth mindset, sharing my coding mistakes via an [ErrorBlog](https://www.katemyoung.com/#ErrorBlog) and as a peer mentor at Makers Academy.
 
