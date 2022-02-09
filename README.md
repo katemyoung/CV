@@ -42,7 +42,7 @@ I'm a recent junior developer graduate and a peer mentor at [Makers Academy](htt
 I'm a passionate and professional leader of learning:
 - As a headteacher, I developed and implemented a custom Cambridge Professional Development Qualification programme, resulting in a tangible and sustainable improvement in teaching standards. 
 - As a trainee developer, I undertook a Heroku learning spike and shared this learning with colleagues via demonstrations, Trello cards and [blog posts](https://www.katemyoung.com/#Deploying%20an%20existing%20Rails%20app%20to%20Heroku). As a result, our whole team was able to deploy to Heroku and our final project was deployed early and often.
-- I lead by example when it comes to demonstrating a growth mindset, sharing my coding mistakes via an ErrorBlog and as a peer mentor at Makers Academy.
+- I lead by example when it comes to demonstrating a growth mindset, sharing my coding mistakes via an [ErrorBlog](https://www.katemyoung.com/#ErrorBlog) and as a peer mentor at Makers Academy.
 
 #### Collaborative Problem Solving
 
@@ -67,7 +67,7 @@ For more information, please see [my blog where I documented my learning at Make
 #### Master of Education (2017)
 - Rhodes University, RSA
 - Grade: Distinction
-- Masters by research. [My thesis](https://www.katemyoung.com/#Kate%20Young%20M.Ed%20Thesis.pdf) was on the adaptation of an early maths on-to-one intervention programme to a class context
+- Masters by research. [My thesis](https://www.katemyoung.com/#Kate%20Young%20M.Ed%20Thesis.pdf) was on the adaptation of an early maths one-to-one intervention programme to a class context
 
 #### Postgraduate Certificate of Education (PGCE) (2011)
 - University of Bangor, UK 
@@ -77,20 +77,20 @@ For more information, please see [my blog where I documented my learning at Make
 #### BA (Hons) Philosophy (2008)
 - Grade: 2.1, 
 - University College London, UK 
-- Topics studied included: Logic, Philosophy of Maths, Philosophy of Science and Philosophy of Language
+- Topics studied include: Logic, Philosophy of Maths, Philosophy of Science and Philosophy of Language
 
 ## Other Qualifications
 
-- Cambridge Professional Development Qulaification Programme Leader, Cambridge Assessment, UK (2018)
+- Cambridge Professional Development Qualification Programme Leader, Cambridge Assessment, UK (2018)
 - Introduction to Bookkeeping and Accountancy, Open University, UK (2013)
 - Listening Skills and Group Discussion Training, Baobab Centre, UK (2012)
 - Certificate of Natural Science, Open University, UK (2012)
-- Practicing Science: Open University lab and field based practical (2011)
+- Practicing Science: Open University lab and field-based practical (2011)
 - Certificate of Mathematics, Open University, UK (2010)
 - Mountain Leader Training, Plas y Brenin, UK (2010)
-- RYA Ocean Yachtmaster, Two Oceans maritime Academy, South Africa (2009)
+- RYA Ocean Yachtmaster, Two Oceans Maritime Academy, South Africa (2009)
 
 ## Hobbies
 
-As working mum to a five-year-old, a lot of my hobbies at the moment are shared hobbies: 
+As a working mum to a five-year-old, a lot of my hobbies at the moment are shared hobbies: 
 tinkering with wood and electronics (especially the Exploratorium's fantastic activities ), cooking, forest school, birdwatching and storytelling.
