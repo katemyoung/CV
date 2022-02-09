@@ -66,10 +66,33 @@ I'm highly skilled at working with others to solve complex business and coding p
 - - SQL, PostgreSQL
 For more information, please see [my blog where I documented my learning at Makers](https://www.katemyoung.com/)
 
-#### Education
+#### Master of Education (2017)
+- Rhodes University, RSA
+- Grade: Distinction
+- Masters by research into adaptation of an early maths on-to-one intervention programme to a class context
 
-- 2017 Master of Education, Distinction, Rhodes University, RSA
-- 2012 Certificate of Natural Science, Open University, UK 
-- 2011 PGCE with QTS Grade 1, University of Bangor, UK 
-- 2010 Certificate of Mathematics, Open University, UK 
-- 2008 BA (Hons) Philosophy, 2.1, University College London, UK 
+#### Postgraduate Certificate of Education (PGCE) (2011)
+- University of Bangor, UK 
+- Grade: 1
+- With Qualified Teacher Status (QTS)
+
+#### BA (Hons) Philosophy (2008)
+- Grade: 2.1, 
+- University College London, UK 
+- Topics studied included: Logic, Philosophy of Maths, Philosophy of Science and Philosophy of Language
+
+## Other Qualifications
+
+- Cambridge Professional Development Qukaification Programme Leader, Cambridge Assessment, UK (2018)
+- Introduction to Bookkeeping and Accountancy, Open University, UK (2013)
+- Listening Skills and Group Discussion Training, Baobab Centre, UK (2012)
+- Certificate of Natural Science, Open University, UK (2012)
+- Practicing Science: Open University lab and field based practical (2011)
+- Certificate of Mathematics, Open University, UK (2010)
+- Mountain Leader Training, Plas y Brenin, UK (2010)
+- RYA Ocean Yachtmaster, Two Oceans maritime Academy, South Africa (2009)
+
+## Hobbies
+
+As working mum to a five-year-old, a lot of my hobbies at the moment are shared hobbies: 
+tinkering with wood and electronics (especially the Exploratorium's fantastic activities ), cooking, forest school, birdwatching and storytelling.
