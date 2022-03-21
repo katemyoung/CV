@@ -1,6 +1,6 @@
 ## Kate Young
 
-I'm a junior developer and [Makers Academy](https://makers.tech) boot camp graduate. I'm an STEM educator and former headteacher who's changing career into tech. Why? Because I love working in creative and diverse teams to solve hard problems. Working with schools to improve student outcomes, I was faced time and again with challenges I knew could solve using technology, if only I knew how to code! I believe that technology can empower teachers to proved individualized learning tailored so each child can fulfil their potential. I want to be a part of making this a reality. Knowing I learn best as part of a team, I took the plunge and enrolled on an intensive coding boot camp. It's been humbling and inspiring to become a beginner again and to walk the growth mindset walk, and now I can't wait to get stuck into my first junior developer role. I'm also a mum who is passionate about advocating for inclusive workplaces that enable working parents and carers to thrive.
+I'm a junior developer, STEM educator and former headteacher who's changing career into tech. I love working in creative and diverse teams to solve hard problems. Working with schools to improve student outcomes, I was faced time and again with challenges I knew could solve using technology, if only I knew how to code! I believe that technology can empower teachers to proved individualized learning tailored so each child can fulfil their potential. I want to be a part of making this a reality. It's been humbling and inspiring to become a beginner again and to walk the growth mindset walk, and now I can't wait to get stuck into my first junior developer role. I'm also a mum who is passionate about advocating for inclusive workplaces that enable working parents and carers to thrive.
 
 ## Projects
 
@@ -22,25 +22,16 @@ I'm a junior developer and [Makers Academy](https://makers.tech) boot camp gradu
 
 - Career break to focus on raising a young family. 
 
-<<<<<<< HEAD
 **Headteacher** (May 2017 to Dec 2018) [_Acacia International School, Zambia_](https://www.acaciaschool.com/)
-=======
-
-**[Acacia International School](https://www.acaciaschool.com/)** (May 2017 to Dec 2018) _Headteacher_
->>>>>>> de9630f78f4748e12ab0e04fa691a5e96b3a78a7
 
 - Responsible for day to day school management and leading strategic development.
 - Led the registration of the school with Cambridge Assessment International Education
 - Spearheaded the development of a new curriculum and staff training programme. 
 - Led the development of the ICT system for staff and pupils, and introduced a code club for the children.
 
-<<<<<<< HEAD
-**Educational Consultant** (Oct 2014 to Dec 2018) [_Sifunda Limited_](https://www.acaciaschool.com/) 
-=======
-**[Sifunda Limited](https://sifundalearning.org/)** (Oct 2014 to Dec 2018) _Senior Consultant, Founder and Director_
->>>>>>> de9630f78f4748e12ab0e04fa691a5e96b3a78a7
+**Educational Consultant, Co-founder** (Oct 2014 to Dec 2018) [_Sifunda Limited_](https://www.acaciaschool.com/) 
 
-- Founded and managed Sifunda Limited, a development consultancy specialising in teaching and learning in Southern Africa. 
+- Co-founded and managed Sifunda Limited, a development consultancy specialising in teaching and learning in Southern Africa. 
 - Design and delivery of customised staff training and data analysis solutions for government, NGO and private sector organisations across a broad range of sectors. 
 
 **Maths and Science Development Coordinator** (Feb 2012 to Jan 2014) [_Tongabezi Trust School, Zambia_](https://tujatane.com/)
