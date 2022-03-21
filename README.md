@@ -13,10 +13,10 @@ I'm a junior developer, STEM educator and former headteacher who's changing care
 
 **Ghostwriter** (Feb 2020 - Oct 2021) [_Self Employed, UK_](https://www.peopleperhour.com/freelancer/writing-translation/kate-young-children-s-creative-writer-ghost-yxqvmvz)
 
-- Delivering high-quality fiction and non-fiction content for a ghostwriting agency and [PeoplePerHour](https://www.peopleperhour.com/freelancer/writing-translation/kate-young-children-s-creative-writer-ghost-yxqvmvz#reviews). 
-- Working quickly, accurately and to a client brief.
-- Focused on meeting client needs and experienced at making changes based on client feedback.
-- My ghost-written work is on sale in major booksellers including Waterstones and Amazon.
+- Delivering high-quality fiction and non-fiction content for a ghostwriting agency and [PeoplePerHour](https://www.peopleperhour.com/freelancer/writing-translation/kate-young-children-s-creative-writer-ghost-yxqvmvz#reviews); my ghost-written work is on sale in major booksellers including Waterstones, Barnes and Noble and Amazon.
+- Working quickly, accurately and to a client brief; maintaining client relations and responding to client feedback.
+- Managing budgets and projects and collaborating with team members.
+- Implemented creative and critical thinking
 
 **Parental Career Break** (Jan 2019 - Jan 2020)  
 
@@ -24,20 +24,23 @@ I'm a junior developer, STEM educator and former headteacher who's changing care
 
 **Headteacher** (May 2017 to Dec 2018) [_Acacia International School, Zambia_](https://www.acaciaschool.com/)
 
-- Responsible for day to day school management and leading strategic development.
-- Led the registration of the school with Cambridge Assessment International Education
-- Spearheaded the development of a new curriculum and staff training programme. 
-- Led the development of the ICT system for staff and pupils, and introduced a code club for the children.
+- Overall responsibility for all aspects of day-to-day school management.
+- Led strategic development including registration of the school with Cambridge Assessment International Education.
+- Spearheaded the innovation and implementation of a new curriculum and staff training programme. 
+- Led the development of the ICT system for staff and pupils.
+- Introduced a Code Club for the children.
 
 **Educational Consultant, Co-founder** (Oct 2014 to Dec 2018) [_Sifunda Limited_](https://www.acaciaschool.com/) 
 
 - Co-founded and managed Sifunda Limited, a development consultancy specialising in teaching and learning in Southern Africa. 
 - Design and delivery of customised staff training and data analysis solutions for government, NGO and private sector organisations across a broad range of sectors. 
+- Winning contracts and developing new business
+- Problems solving to overcome business challenges and meet client needs
 
 **Maths and Science Development Coordinator** (Feb 2012 to Jan 2014) [_Tongabezi Trust School, Zambia_](https://tujatane.com/)
 
-Responsible for guiding the school’s transition from a traditional teacher-centered to a learner-centered pedagogy.
-Development of new science lab and STEM curricula.
+- Responsible for guiding the school’s transition from a traditional teacher-centered to a learner-centered pedagogy.
+- Development of new science lab and STEM curricula.
 
 ## Skills
 
